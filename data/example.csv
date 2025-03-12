@@ -1,0 +1,21 @@
+date,product,category,region,sales,quantity,unit_price
+2023-01-01,Widget A,Electronics,North,1500,10,150
+2023-01-02,Widget B,Electronics,South,2000,8,250
+2023-01-03,Gadget C,Home,East,1200,12,100
+2023-01-04,Gadget D,Home,West,1800,15,120
+2023-01-05,Tool E,Hardware,North,900,6,150
+2023-01-06,Tool F,Hardware,South,1100,7,157
+2023-01-07,Widget A,Electronics,East,1600,11,145
+2023-01-08,Widget B,Electronics,West,2200,9,244
+2023-01-09,Gadget C,Home,North,1250,13,96
+2023-01-10,Gadget D,Home,South,1850,16,116
+2023-01-11,Tool E,Hardware,East,950,7,136
+2023-01-12,Tool F,Hardware,West,1150,8,144
+2023-01-13,Widget A,Electronics,North,1550,11,141
+2023-01-14,Widget B,Electronics,South,2100,9,233
+2023-01-15,Gadget C,Home,East,1300,14,93
+2023-01-16,Gadget D,Home,West,1900,17,112
+2023-01-17,Tool E,Hardware,North,980,7,140
+2023-01-18,Tool F,Hardware,South,1200,8,150
+2023-01-19,Widget A,Electronics,East,1650,12,138
+2023-01-20,Widget B,Electronics,West,2300,10,230
